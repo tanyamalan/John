@@ -305,8 +305,8 @@ h1,
   line-height: 64px;
 }
 h1.large {
-  font-size: 72px;
-  line-height: 80px;
+  font-size: 108px;
+  line-height: 134px;
   font-weight: 100;
 }
 @media all and (max-width: 990px) {
