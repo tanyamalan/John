@@ -3,7 +3,7 @@
 /* Code by David McKeown - craftedbydavid.com */
 /* Editable entries are bellow */
 
-$send_to = "johnctownsend@gmail.com";
+$send_to = "johnctowns@gmail.com";
 $send_subject = "Contact Form Site ";
 
 
